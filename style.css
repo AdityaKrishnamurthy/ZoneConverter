@@ -9,9 +9,9 @@
 }
 
 body.light {
-  --bg: #fefefe;
+  --bg: #ffe8d6;
   --text: #003049;
-  --card: #ffffff;
+  --card: #ffe8d6;
   --highlight: #d62828;
   --input-bg: #ffffff;
   --input-text: #000000;

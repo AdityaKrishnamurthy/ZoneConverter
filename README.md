@@ -48,7 +48,7 @@
 
 ## ✨ Author
 
-Made with 💖 by [**CrescendoFluffy**](https://github.com/CrescendoFluffy)
+Made with 💖 by [**AdityaKrishnamurthy**](https://github.com/AdityaKrishnamurthy)
 
 ---
 

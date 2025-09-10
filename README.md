@@ -2,7 +2,7 @@
 
 **ZoneConverter** is a sleek, responsive timezone converter web app that lets you easily convert any date and time between major global time zones — including your local time — with a clean UI and dark/light theme toggle support.
 
-🔗 **Live**: [https://crescendofluffy.github.io/ZoneConverter/](https://crescendofluffy.github.io/ZoneConverter/)
+🔗 **Live**: [https://adityakrishnamurthy.github.io/ZoneConverter/](https://adityakrishnamurthy.github.io/ZoneConverter/)
 
 ---
 
